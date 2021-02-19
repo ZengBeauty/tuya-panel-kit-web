@@ -1,7 +1,8 @@
 import { Dimensions, Platform, StatusBar } from 'react-native';
 
-const { height, width } = Dimensions.get('window');
 const baseHeight = 667;
+const height = 667;
+const width = 375;
 const baseWidth = 375;
 const baseX = Math.sqrt(baseHeight * baseHeight + baseWidth * baseWidth);
 const x = Math.sqrt(height * height + width * width);
