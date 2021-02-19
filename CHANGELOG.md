@@ -2,6 +2,12 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [4.2.15](https://github.com/tuya/tuya-panel-kit/compare/v4.2.14...v4.2.15) (2021-02-19)
+
+### Bug Fixes
+
+- **Utils:** fix device info in browser ([3eb9087](https://github.com/tuya/tuya-panel-kit/commit/3eb908713ad77c42979fc964d5926d90897a7b0f))
+
 ## [4.2.14](https://github.com/tuya/tuya-panel-kit/compare/v4.2.13...v4.2.14) (2021-01-11)
 
 ### Bug Fixes
